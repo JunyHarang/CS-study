@@ -31,8 +31,8 @@
 <a href="https://github.com/Seogeurim">
   <img src="https://github.com/Seogeurim.png" width="100">
 </a>
-<a href="https://github.com/yungoingFLY">
-  <img src="https://github.com/yungoingFLY.png" width="100">
+<a href="https://github.com/yoongoing">
+  <img src="https://github.com/yoongoing.png" width="100">
 </a>
 <a href="https://github.com/3people">
   <img src="https://github.com/3people.png" width="100">
